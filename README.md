@@ -1,5 +1,5 @@
 
-# Travel Booking API
+# Travel Booking API/Website Example
 
 ## Introduction
 
